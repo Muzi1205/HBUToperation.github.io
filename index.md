@@ -2,7 +2,6 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
 
 你在运营组进行学习时，必定会遇到各种奇奇怪怪的问题，你会找到解决方案，或者自己写一个小工具来解决这个问题。你也可能会整理一些资源的链接。
 
